@@ -3,4 +3,3 @@ public class App {
         new Transaction().runTransaction();
     }
 }
-git add *
